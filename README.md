@@ -2,6 +2,38 @@
 
 With these files, you can quickly set up building your Gulp project.
 
+```
+gulp2022
+└───gulp
+│   └config
+│   │   path.js
+│   │   plugins.js
+│   └tasks
+│   │   copy.js
+│   │   fonts.js
+│   │   html.js
+│   │   images.js
+│   │   js.js
+│   │   reset.js
+│   │   scss.js
+│   │   server.js
+│   │   svgSprite.js
+│   │   zip.js
+│
+└───src
+│   └fonts
+│   └html
+│   └img
+│   └js
+│   └scss
+│   └svgicons
+│   └index.html
+│
+└───gulpfile.js
+└───package.json
+└───README.MD
+```
+
 ### For a start:
 
 1. Download all files to any directory
